@@ -1,1 +1,1 @@
-# Indian Recipes
+# Team Recipes ## Pasta Carbonara **Ingredients:** 200g spaghetti, 2 eggs, 50g parmesan, 100g pancetta, black pepper **Method:** Boil pasta until al dente. Fry pancetta until crispy. Beat eggs with parmesan. Drain pasta, take off heat, toss with pancetta, then egg mix. Season well. Serve immediately.
